@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 export const Article = () => {
     return (
         <section id="artikel" className="py-16 bg-white">
